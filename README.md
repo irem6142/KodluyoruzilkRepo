@@ -18,4 +18,5 @@ Contributing
 Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degistirmek istediginizi tartismak için bir konu aciniz.
 
 License
+
 ![alt text](https://miro.medium.com/max/2400/2*TZeK0kyHTRHVv3gUi8BtQg.png)
