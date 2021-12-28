@@ -20,7 +20,7 @@ Linux icin:
 cd kodluyoruzilkrepo code .
 ```
 
-#Contributing
+# Contributing
 ***
 Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degistirmek istediginizi tartismak için bir konu aciniz.
 
