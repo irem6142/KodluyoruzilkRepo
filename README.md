@@ -6,16 +6,24 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 # Instalattion
-Öncelikle bu projeyi clonelayın.
-´´´git clone https://github.com/irem6142/KodluyoruzilkRepo.git´´´
 ***
+Öncelikle bu projeyi clonelayın.
+```
+git clone https://github.com/irem6142/KodluyoruzilkRepo.git
+```
+
 # Usage
+***
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 Linux icin:
-´´´cd kodluyoruzilkrepo code .´´
-***
+```
+cd kodluyoruzilkrepo code .
+```
+
 #Contributing
-Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degistirmek istediginizi tartismak için bir konu aciniz.
 ***
+Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degistirmek istediginizi tartismak için bir konu aciniz.
+
 # License
-[MIT]
+***
+[MIT](MIT)
