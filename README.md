@@ -12,7 +12,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 #Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 Linux icin:
-´´´cd kodluyoruzilkrepo code .´´´
+´´´cd kodluyoruzilkrepo code .´´
 -------------------------------------------------------------------
 #Contributing
 Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degistirmek istediginizi tartismak için bir konu aciniz.
